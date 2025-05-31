@@ -3,5 +3,5 @@ flask-cors
 pandas
 scikit-learn
 scikit-surprise
-numpy
+numpy<2
 gunicorn
